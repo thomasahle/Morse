@@ -1,0 +1,2 @@
+serviceClass: org.rosenspejd.morse.client.GreetingService
+path: 6636A91B5B5D3BA5974963009FAB1F4F.gwt.rpc

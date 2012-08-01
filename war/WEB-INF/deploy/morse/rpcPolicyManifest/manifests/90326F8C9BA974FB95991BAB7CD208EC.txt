@@ -1,0 +1,2 @@
+serviceClass: org.rosenspejd.morse.client.TextService
+path: CBD12A2C96C6B8C2EC5D496B52F2F6BA.gwt.rpc
